@@ -25,7 +25,7 @@ const render = async (canvas, filename = './flag.jpg') =>
 
   console.log(await display.buffer(img));
 
-  await canvas.write(filename);
+  await canvas.writeAsync(filename);
 };
 
 void async function main()
