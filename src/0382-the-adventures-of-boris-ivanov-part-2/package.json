@@ -1,0 +1,8 @@
+{
+  "name": "ctflearn-0382-the-adventures-of-boris-ivanov-part-2-solution",
+  "private": true,
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "tesseract.js": "^2.1.4"
+  }
+}
