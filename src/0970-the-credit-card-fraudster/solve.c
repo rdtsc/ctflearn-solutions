@@ -28,10 +28,10 @@ static bool isValidCreditCardNumber(const char* const cc)
 int main(void)
 {
   #ifdef X
-    #error
-  #else
-    #define X(C) for(unsigned C = 0; C < 10; ++C)
+  #error
   #endif
+
+  #define X(C) for(unsigned C = 0; C < 10; ++C)
 
   const uint_fast64_t prefix = 543210,
                       suffix = 1234;

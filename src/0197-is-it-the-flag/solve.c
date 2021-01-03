@@ -23,13 +23,15 @@ static char* bruteforceFlag(const int_fast32_t targetHash,
   assert(charset && strlen(charset));
 
   #ifdef X
-    #error
-  #else
-    #define X(C) for(const char* C = charset; *C; ++C)
+  #error
   #endif
+
+  #define X(C) for(const char* C = charset; *C; ++C)
 
   X(a) X(b) X(c) X(d) X(e) X(f)
   {
+    #undef X
+
     const char flag[] = {*a, *b, *c, *d, *e, *f, '\0'};
 
     if(hash(flag) == targetHash)
@@ -41,8 +43,6 @@ static char* bruteforceFlag(const int_fast32_t targetHash,
       return result;
     }
   }
-
-  #undef X
 
   return NULL;
 }
