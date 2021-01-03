@@ -1,0 +1,7 @@
+{
+  "name": "ctflearn-0670-read-in-color-solution",
+  "private": true,
+  "dependencies": {
+    "pngjs": "^6.0.0"
+  }
+}

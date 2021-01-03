@@ -12,6 +12,7 @@ already solved the relevant problems yourself.
 ### Local Environment
 
 - Linux
+- Node.js ~v14
 - Python ~v3.9
 - GCC ~v10.2
 
