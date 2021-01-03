@@ -1,0 +1,8 @@
+{
+  "name": "ctflearn-0089-image-magic-solution",
+  "private": true,
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "terminal-image": "^1.2.1"
+  }
+}
