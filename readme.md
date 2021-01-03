@@ -12,6 +12,7 @@ already solved the relevant problems yourself.
 ### Local Environment
 
 - Linux
+- Python ~v3.9
 
 
 ## License and Copyright
