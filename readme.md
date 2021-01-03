@@ -13,6 +13,7 @@ already solved the relevant problems yourself.
 
 - Linux
 - Python ~v3.9
+- GCC ~v10.2
 
 
 ## License and Copyright
