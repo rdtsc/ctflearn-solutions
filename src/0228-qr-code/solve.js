@@ -3,9 +3,9 @@
 'use strict';
 
 const fs     = require('fs'),
+      {PNG}  = require('pngjs'),
       assert = require('assert'),
-      readQr = require('jsqr'),
-      {PNG}  = require('pngjs');
+      readQr = require('jsqr');
 
 function decode(imagePath)
 {
