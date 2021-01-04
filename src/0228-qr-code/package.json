@@ -1,0 +1,8 @@
+{
+  "name": "ctflearn-0228-qr-code-solution",
+  "private": true,
+  "dependencies": {
+    "jsqr": "^1.3.1",
+    "pngjs": "^6.0.0"
+  }
+}
