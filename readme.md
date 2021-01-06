@@ -12,9 +12,10 @@ already solved the relevant problems yourself.
 ### Local Environment
 
 - Linux
-- Node.js ~v14
-- Python ~v3.9
 - GCC ~v10.2
+- Node.js ~v14
+- Perl ~v5.30
+- Python ~v3.9
 
 
 ## License and Copyright
