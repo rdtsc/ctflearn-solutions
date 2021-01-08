@@ -1,1 +1,3 @@
+scripts/* linguist-vendored
 src/*/extra/* linguist-vendored
+templates/* linguist-vendored

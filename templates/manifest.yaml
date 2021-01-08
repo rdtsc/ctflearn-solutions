@@ -1,0 +1,20 @@
+c:
+ - c/makefile
+ - c/solve.c.mustache
+ - shared/readme.md.mustache
+
+js:
+ - js/package.json.mustache
+ - [js/solve.js.mustache, 0o775]
+ - shared/readme.md.mustache
+
+py:
+ - [py/solve.py.mustache, 0o775]
+ - shared/readme.md.mustache
+
+sh:
+ - [sh/solve.sh.mustache, 0o775]
+ - shared/readme.md.mustache
+
+default:
+  - shared/readme.md.mustache
