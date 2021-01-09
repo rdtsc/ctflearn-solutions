@@ -1,0 +1,3 @@
+#!/bin/sh
+
+printf "0x%x\n" $((0xc4115 ^ 0x4cf8))
