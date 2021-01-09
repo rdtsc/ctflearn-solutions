@@ -23,4 +23,5 @@ Thumbs.db
 *.traineddata
 
 # Vendor files.
+__pycache__
 node_modules
