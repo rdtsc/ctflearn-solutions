@@ -1,0 +1,9 @@
+{
+  "name": "ctflearn-0441-seeing-is-believing-solution",
+  "private": true,
+  "dependencies": {
+    "got": "^11.8.1",
+    "jimp": "^0.16.1",
+    "jsqr": "^1.3.1"
+  }
+}
