@@ -1,0 +1,7 @@
+{
+  "name": "ctflearn-0851-exclusive-santa-solution",
+  "private": true,
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
