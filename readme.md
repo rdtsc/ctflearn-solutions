@@ -1,7 +1,7 @@
 # CTFlearn Solutions
 
 This repository houses my personal solutions to
-[CTFlearn's programming challenges][challenges].
+[CTFlearn challenges][challenges].
 
 It is strongly encouraged that you do not view my solutions unless you've
 already solved the relevant problems yourself.
