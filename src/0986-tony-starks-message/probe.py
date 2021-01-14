@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+from pickle import load
+
 '''
 $ python3 -m pickletools extra/node.pickle | grep -io unicode.* | head -n10
 
@@ -14,8 +16,6 @@ UNICODE 'right'
 UNICODE '_count'
 UNICODE '7'
 '''
-
-from pickle import load
 
 class Node:
   pass
