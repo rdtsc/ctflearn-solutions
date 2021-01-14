@@ -11,7 +11,7 @@ already solved the relevant problems yourself.
 
 ### Local Environment
 
-- Linux
+- Linux (w/ misc. tools like Binwalk, GraphicsMagick, etc.)
 - GCC ~v10.2
 - Node.js ~v14
 - NPM ~v7.4
