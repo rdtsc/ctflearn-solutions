@@ -1,3 +1,3 @@
 #!/bin/sh
 
-make --quiet && ./solve.out | grep \{
+make --quiet && ./solve.out | grep {
