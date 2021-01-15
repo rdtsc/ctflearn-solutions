@@ -5,5 +5,4 @@ all:
 	ld -o $(TARGET).out $(TARGET).o
 
 clean:
-	$(RM) $(TARGET).o
-	$(RM) $(TARGET).out
+	$(RM) $(TARGET).o $(TARGET).out
