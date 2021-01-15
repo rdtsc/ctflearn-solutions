@@ -13,6 +13,7 @@ already solved the relevant problems yourself.
 
 - Linux (w/ misc. tools like Binwalk, GraphicsMagick, etc.)
 - GCC ~v10.2
+- NASM ~v2.15
 - Node.js ~v14
 - NPM ~v7.4
 - Perl ~v5.30
