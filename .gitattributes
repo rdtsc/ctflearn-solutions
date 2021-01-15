@@ -1,3 +1,4 @@
 scripts/* linguist-vendored
 src/*/extra/* linguist-vendored
+src/*/solve.asm linguist-vendored
 templates/* linguist-vendored
