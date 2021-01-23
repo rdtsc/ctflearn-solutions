@@ -39,7 +39,7 @@ function getCategory($)
 
 function getDifficulty($)
 {
-  const $labels = $('.uk-card-body > .uk-position-top-right');
+  const $labels = $('.card-header .badge');
 
   const labels = $labels.text()
                         .toLowerCase()
