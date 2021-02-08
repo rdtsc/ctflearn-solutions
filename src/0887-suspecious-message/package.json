@@ -1,0 +1,7 @@
+{
+  "name": "ctflearn-0887-suspecious-message-solution",
+  "private": true,
+  "dependencies": {
+    "crypto-classic-playfair": "^1.0.0"
+  }
+}
