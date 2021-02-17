@@ -1,0 +1,65 @@
+----------- Let's play rock, paper, scissors!
+----------- Beat me 10 times in a row to win the flag!
+
+Please choose: R / P / S
+>>>You didn't win!
+I chose R based on 2454155475
+Please choose: R / P / S
+>>>You won! Consecutive wins: 1
+I chose S based on 139951793
+Please choose: R / P / S
+>>>You didn't win!
+I chose R based on 1842064464
+Please choose: R / P / S
+>>>You didn't win!
+I chose P based on 2072586604
+Please choose: R / P / S
+>>>You didn't win!
+I chose R based on 2482883256
+Please choose: R / P / S
+>>>You didn't win!
+I chose R based on 63704871
+Please choose: R / P / S
+>>>You didn't win!
+I chose P based on 885185152
+Please choose: R / P / S
+>>>You didn't win!
+I chose R based on 1986768135
+Please choose: R / P / S
+>>>You won! Consecutive wins: 1
+I chose S based on 3493188185
+Please choose: R / P / S
+>>>You didn't win!
+I chose R based on 2110102074
+Please choose: R / P / S
+>>>You didn't win!
+I chose P based on 3537287287
+Please choose: R / P / S
+>>>You won! Consecutive wins: 1
+I chose S based on 1191942149
+Please choose: R / P / S
+>>>You won! Consecutive wins: 2
+I chose S based on 2806643141
+Please choose: R / P / S
+>>>You didn't win!
+I chose P based on 3481581187
+Please choose: R / P / S
+>>>You didn't win!
+I chose R based on 688180719
+Please choose: R / P / S
+>>>You won! Consecutive wins: 1
+I chose S based on 147762233
+Please choose: R / P / S
+>>>You didn't win!
+I chose R based on 2236257879
+Please choose: R / P / S
+>>>You won! Consecutive wins: 1
+I chose S based on 2104901561
+Please choose: R / P / S
+>>>You won! Consecutive wins: 2
+I chose S based on 1407773507
+Please choose: R / P / S
+>>>You didn't win!
+I chose R based on 326801271
+Please choose: R / P / S
+>>>
