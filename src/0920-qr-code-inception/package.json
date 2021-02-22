@@ -1,0 +1,8 @@
+{
+  "name": "ctflearn-0920-qr-code-inception-solution",
+  "private": true,
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "jsqr": "^1.3.1"
+  }
+}
