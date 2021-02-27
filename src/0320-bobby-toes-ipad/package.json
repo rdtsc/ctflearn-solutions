@@ -1,0 +1,9 @@
+{
+  "name": "ctflearn-0320-bobby-toes-ipad-solution",
+  "private": true,
+  "dependencies": {
+    "crypto-classic-otp": "^1.0.0",
+    "jimp": "^0.16.1",
+    "tesseract.js": "^2.1.4"
+  }
+}
