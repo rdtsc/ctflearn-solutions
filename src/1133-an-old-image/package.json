@@ -1,0 +1,8 @@
+{
+  "name": "ctflearn-1133-an-old-image-solution",
+  "private": true,
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "jsqr": "^1.4.0"
+  }
+}
